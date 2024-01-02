@@ -1,0 +1,21 @@
+body {
+    background-color: #035371;
+}
+
+h1 {
+    font-family: Arial, Helvetica, sans-serif;
+    text-decoration: underline;
+}
+
+ul {
+    background-color: #048eff;
+    font-size: 28px;
+}
+
+ul a {
+    color: white;
+}
+
+h1 {
+    text-align: center;
+}
